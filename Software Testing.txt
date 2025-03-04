@@ -1,0 +1,96 @@
+1.What is Software Testing?
+
+Software testing is the process of evaluating a software program to ensure it works as intended. It's a key part of software development. 
+
+Purpose To check for errors and gaps, To ensure the software meets user expectations, To improve software quality, To prevent bugs, and To enhance performance. 
+
+Benefits of software testing 
+.It helps to ensure code quality
+.It helps to prevent bugs
+.It helps to improve performance
+.It helps to understand the usability of developed software from an end-user perspective
+
+2.What are the dangers of release untested Software?
+
+Releasing untested software can lead to a range of dangers including critical security vulnerabilities, performance issues, data breaches, compliance violations, reputational damage, and potential legal liabilities, as untested software is highly likely to contain bugs and flaws that could be exploited by hackers or cause system malfunctions for users.
+
+Key risks of releasing untested software:
+
+Security vulnerabilities:
+Unidentified security flaws in untested software can easily be exploited by attackers, leading to data breaches, unauthorized access, and malware infections. 
+
+Performance problems:
+Bugs in untested software can cause crashes, slowdowns, and unexpected behavior, impacting user experience and system functionality. 
+
+Data loss:
+Critical data could be corrupted or lost due to errors in untested software, especially if it involves data handling functions. 
+
+Compliance issues:
+In regulated industries, releasing untested software could lead to non-compliance with data privacy and security standards, resulting in legal penalties. 
+
+Customer dissatisfaction:
+Unreliable and buggy software can lead to negative user feedback and damage a company's reputation. 
+
+Increased maintenance costs:
+Fixing bugs after release is often more time-consuming and expensive than addressing them during development through proper testing. 
+
+Integration issues:
+Untested software might not integrate seamlessly with existing systems, causing further complications and disruptions. 
+
+Ransomware risk:
+Outdated or poorly tested software can be a prime target for ransomware attacks, where attackers encrypt critical data and demand payment for its recovery. 
+
+To mitigate these risks, thorough testing practices should be implemented throughout the software development lifecycle, including unit testing, integration testing, system testing, and user acceptance testing. 
+
+3.There are many types of software testing, including functional, non-functional, unit, integration, acceptance, regression, and smoke testing.
+
+. Functional testing ensures that software features and functionalities work as expected and helps to reduce defects in production.
+
+Three Examples of Functional Testing
+
+. Verifying the login functionality on a website.
+
+. Verifying that a payment gateway processes transactions correctly.
+
+. Checking if a user can successfully upload a file to a system.
+
+
+
+. Non-Functional Testing verifies non-functional aspects of the product.
+
+Three Examples of Non-Functional Testing
+
+.Performance
+
+.Stability
+
+.Usability
+
+
+
+
+. Unit testing 
+Verifies the correctness of individual components or units of code
+Focuses on the smallest functional or logical pieces of the software
+
+
+. Integration testing 
+Confirms that the different modules and services work well together
+For example, testing software compatibility with a database
+
+
+. Acceptance testing 
+Ensures that the end-user can achieve the goals set in the business requirements
+Also known as user acceptance testing (UAT)
+
+
+. Regression testing 
+Runs after every change to ensure that the change does not introduce any unintended issues
+Performance testing Checks whether the software is performing optimally and Involves testing the whole application. 
+
+
+. Smoke testing 
+Performs a preliminary set of tests to check whether the most critical functions work
+Ensures that the build is stable enough for further testing.
+
+
